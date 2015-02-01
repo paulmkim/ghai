@@ -1,6 +1,11 @@
 TODO: FIND VOICE RECOGNITION SOFTWARE
 
 -------------------------------------------------------------------
+1/31/2015 23:43 PST
+
+Modified the song list so that voice input matches properly
+
+-------------------------------------------------------------------
 1/31/2015 23:29 PST
 
 Generalized the creation of batch files so only need on overall one
