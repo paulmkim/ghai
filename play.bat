@@ -1,1 +1,1 @@
-start C:\Users\Allison\Documents\GitHub\ghai\Songs" + content[i]
+start C:\Users\Allison\Documents\GitHub\ghai\Songs\FixYou.mp3
