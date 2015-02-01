@@ -1,0 +1,2 @@
+# ghai
+General household AI
