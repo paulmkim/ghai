@@ -1,1 +1,1 @@
-start C:\Users\Alvin\Desktop\ghai\SongsToPlay\uptownfunk.mp3
+start C:\Users\Alvin\Desktop\ghai\SongsToPlay\loseyourself.mp3

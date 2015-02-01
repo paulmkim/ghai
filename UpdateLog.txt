@@ -1,4 +1,13 @@
-TODO: FIND VOICE RECOGNITION SOFTWARE
+TODO: FIND BETTER VOICE RECOGNITION SOFTWARE (A LEARNING)
+TODO: Shut up -> turn off voice recognition
+TODO: Youtube search
+TODO: Generalized library (file system)
+
+-------------------------------------------------------------------
+2/1/2015 5:00 PST
+
+Working Demo.
+Requires specifically named files with timestamp lengths.
 
 -------------------------------------------------------------------
 2/1/2015 00:38 PST

@@ -11,7 +11,8 @@ songinfo = {"shakeitoff": 241,
             "uptownfunk": 270,
             "centuries": 231,
             "Iseethelight": 241,
-            "happy": 234}
+            "happy": 234,
+            "loseyourself": 326}
 
 while True:
     path = "C:\Users\Alvin\Desktop\ghai\songs.txt"
