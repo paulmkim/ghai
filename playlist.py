@@ -1,6 +1,10 @@
 import subprocess
 import time
 
+def invalidSong(song):
+	if content[i] != "shakeitoff" and content[i] != "uptownfunk" and content[i] != "centuries":
+		return True
+	
 songinfo = {"shakeitoff": 241,
 			"uptownfunk": 270,
 			"centuries": 231}
@@ -31,6 +35,9 @@ while True:
 	#	playlist.append(content[len(content) - i -1])
 	
 	for i in range(len(content)):
+		if invalidSong(content[i]):
+			continue
+			
 		script = "start C:\Users\Paul\Desktop\ghai\SongsToPlay\\" + content[i] + ".mp3"
 		
 		fo = open("C:\Users\Paul\Desktop\ghai\play.bat", 'w')
