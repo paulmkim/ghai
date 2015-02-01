@@ -1,0 +1,11 @@
+------------------------------------------------------------------
+
+1/31/2015 8:37 PST
+
+First commit.
+Added README.
+Added UpdateLog.
+Added "playSong.py"
+Created folder "Songs" which holds 20 songs
+
+------------------------------------------------------------------
