@@ -1,6 +1,11 @@
 TODO: FIND VOICE RECOGNITION SOFTWARE
 
 -------------------------------------------------------------------
+2/1/2015 00:38 PST
+
+Modified the code to accomodate the voice recognition code
+
+-------------------------------------------------------------------
 1/31/2015 23:43 PST
 
 Modified the song list so that voice input matches properly
